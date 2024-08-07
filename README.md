@@ -19,7 +19,7 @@ The dataset is currently being expanded and produced, and we will make it public
 ---
 
 ## Citation
-If you use SGM in your work, please cosider citing our paper!
+If you use SGM in your work, please consider citing our paper!
 ```
 @INPROCEEDINGS{10447299,
   author={Chen, Jia and Qin, Jinlong and Zhong, Saishang and Yang, Kai and Hu, Xinrong and Peng, Tao and Li, Rui},
