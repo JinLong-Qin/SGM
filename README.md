@@ -6,6 +6,8 @@
 - The download link for SGM:
 Google Drive: [Google Drive](https://drive.google.com/drive/folders/1Vl_q-IcD-TGXRUgBAZX_jKmyvBT6d2iE?usp=sharing)
 
+---
+
 ## Overviews
 We propose SGM, a comprehensive dataset comprising 656 garment models categorized into short and long sleeves. 
 Each garment model includes two types of annotations:
