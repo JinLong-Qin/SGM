@@ -1,7 +1,7 @@
-# [ICASSP 2024]SGM: A Dataset for 3D Garment Reconstruction from Single Hand-Drawn Sketch
+# [ICASSP 2024] SGM: A Dataset for 3D Garment Reconstruction from Single Hand-Drawn Sketch
 
 ## News
-- Now, SGM expanded the dataset to include a total of 1,471 instances of garment 3D models, covering 15 different garment categories.
+- Now, SGM encompasses a total of 15 garment categories, comprising 1,471 instances of garment 3D models.
 - Additionally, depth maps have been added to the 2D renderings of each garment.
 - The download link for SGM:
 Google Drive: [Google Drive](https://drive.google.com/drive/folders/1Vl_q-IcD-TGXRUgBAZX_jKmyvBT6d2iE?usp=sharing)
