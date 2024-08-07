@@ -3,7 +3,7 @@
 ## News
 - Now, SGM expanded the dataset to include a total of 1,471 instances of garment 3D models, covering 15 different garment categories.
 - Additionally, depth maps have been added to the 2D renderings of each garment.
-- The download link for Deep Fashshion3D V2:
+- The download link for SGM:
 Google Drive: [Google Drive](https://drive.google.com/drive/folders/1Vl_q-IcD-TGXRUgBAZX_jKmyvBT6d2iE?usp=sharing)
 
 ## Overviews
