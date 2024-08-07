@@ -26,8 +26,6 @@ If you use SGM in your work, please cosider citing our paper!
   booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={SGM: A Dataset for 3D Garment Reconstruction from Single Hand-Drawn Sketch}, 
   year={2024},
-  volume={},
-  number={},
   pages={2510-2514},
   keywords={Solid modeling;Three-dimensional displays;Clothing;Signal processing;Reconstruction algorithms;Acoustics;Speech processing;Garment reconstruction;Sketch;UDF;Dataset;Deep generative models},
   doi={10.1109/ICASSP48485.2024.10447299}}
