@@ -1,4 +1,4 @@
-# [ICASSP 2024]SGM: A Dataset and Benchmark for 3D Garment Reconstruction from Single-view hand-draw Sketches
+# [ICASSP 2024]SGM: A Dataset for 3D Garment Reconstruction from Single Hand-Drawn Sketch
 
 ## News
 - Now, SGM expanded the dataset to include a total of 1,471 instances of garment 3D models, covering 15 different garment categories.
@@ -15,3 +15,22 @@ Each garment model includes two types of annotations:
 - Spatial sampling points and UDF (Unsigned Distance Function) values from each sampling point to the surface of the garment model.
 
 The dataset is currently being expanded and produced, and we will make it publicly available after the publication of our paper.
+
+---
+
+## Citation
+If you use SGM in your work, please cosider citing our paper!
+```
+@INPROCEEDINGS{10447299,
+  author={Chen, Jia and Qin, Jinlong and Zhong, Saishang and Yang, Kai and Hu, Xinrong and Peng, Tao and Li, Rui},
+  booktitle={ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={SGM: A Dataset for 3D Garment Reconstruction from Single Hand-Drawn Sketch}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={2510-2514},
+  keywords={Solid modeling;Three-dimensional displays;Clothing;Signal processing;Reconstruction algorithms;Acoustics;Speech processing;Garment reconstruction;Sketch;UDF;Dataset;Deep generative models},
+  doi={10.1109/ICASSP48485.2024.10447299}}
+
+```
+
